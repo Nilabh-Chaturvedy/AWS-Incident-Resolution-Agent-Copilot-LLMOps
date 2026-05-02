@@ -337,9 +337,6 @@ This project demonstrates:
 - Restrict security group rules in production.
 - Keep real AWS account IDs, ARNs, and repository URLs out of public examples unless intentionally published.
 
-## Interview Summary
-
-OpsPilot AI is an agentic CloudOps copilot that uses LangGraph to route infrastructure incidents through specialized diagnostic agents. It performs ECS/Fargate-focused diagnosis, generates root-cause analysis, recommends remediation steps, evaluates its own output, and produces a final incident report. The system is containerized with Docker and deployable on AWS ECS Fargate with CloudWatch logging.
 
 ## License
 
