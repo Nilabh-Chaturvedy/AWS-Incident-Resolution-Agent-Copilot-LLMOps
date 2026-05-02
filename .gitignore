@@ -1,0 +1,16 @@
+venv/
+__pycache__/
+.env
+*.pyc
+.task-definition.json
+task-definition.json
+
+# Local/editor noise
+.DS_Store
+.idea/
+.vscode/
+
+# Test and cache output
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
