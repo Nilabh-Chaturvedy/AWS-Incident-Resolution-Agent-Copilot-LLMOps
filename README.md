@@ -1,6 +1,8 @@
 # OpsPilot AI - Agentic CloudOps Incident Diagnosis Copilot
 
-OpsPilot AI is an agentic CloudOps assistant built with LangGraph, Streamlit, Docker, and AWS ECS Fargate. The application diagnoses cloud and container deployment incidents by routing issues through specialized diagnostic agents, generating root-cause analysis, recommending fixes, evaluating response quality, and producing an incident report.
+OpsPilot AI is an agentic CloudOps assistant built with LangGraph, Streamlit, Docker, and AWS ECS Fargate. The application diagnoses cloud and container deployment incidents by routing issues through specialized diagnostic agents, generating root-cause analysis, recommending fixes, evaluating response quality, and producing an incident report. Try this app at :
+
+http://3.91.133.151:8501/
 
 ## Project Objective
 
